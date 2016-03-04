@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import ALCamera
 
 class ViewController: UIViewController {
 
